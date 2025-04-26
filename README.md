@@ -10,7 +10,13 @@ The game was based on [@moreharsh's open-source Unity FPS project](https://githu
 
 ## User Feedback Video
 
-You can [watch a 1-minute video here](./stewart_video.mp4) where Stewart describes his experience with the game and shares his thoughts on the adapted controller.
+You can [watch a 1-minute video here](https://youtu.be/ETV7-_j2fmM) where Stewart describes his experience with the game and shares his thoughts on the adapted controller.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ETV7-_j2fmM">
+    <img src="https://img.youtube.com/vi/ETV7-_j2fmM/hqdefault.jpg" alt="Watch Stewart's Video" width="480">
+  </a>
+</p>
 
 ## Collaboration Notes
 
